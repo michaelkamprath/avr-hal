@@ -10,7 +10,7 @@ nb = "1.1.0"
 ufmt = { version = "0.2", git =  "https://github.com/michaelkamprath/ufmt.git", branch = "floating_point", features = ["f32"] }
 paste = "1.0.0"
 avr-device = "0.5.1"
-embedded-storage = "0.3.0"
+embedded-storage = "0.2"
 
 [dependencies.embedded-hal]
 version = "0.2.3"
